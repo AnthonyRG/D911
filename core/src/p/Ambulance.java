@@ -2,7 +2,7 @@ package p;
 
 import com.badlogic.gdx.math.GridPoint2;
 
-public class Ambulance extends Car{
+public class Ambulance extends Vehicle{
 	
 	Ambulance(){	super();	}
 	
